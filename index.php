@@ -15,7 +15,7 @@
 
 <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.7.min.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.7.0.min.js"><\/script>')</script>
 
 </body>
 </html>
